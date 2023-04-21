@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flask ,BeautifulSoup, sellenium**
 
-- 📫 How to reach me **pybot0395asri@gmail.com**
+- 📫 How to reach me **pybot0395@gmail.com**
 
 - ⚡ Fun fact **I think speed is key**
 
