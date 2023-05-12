@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amine</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on **any fun python project**
 
