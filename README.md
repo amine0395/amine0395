@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm amine</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **java**
+- 🌱I’m currently learning **java**
 
-- 👯 I’m looking to collaborate on **any fun python project**
+- 👯I’m looking to collaborate on **any fun python project**
 
-- 💬 Ask me about **flask ,BeautifulSoup, sellenium**
+- 💬Ask me about **flask ,BeautifulSoup, sellenium**
 
-- 📫 How to reach me **[t.me/amine0395](https://t.me/amine0395)**
+- 📫How to reach me **[t.me/amine0395](https://t.me/amine0395)**
 
-- ⚡ Fun fact **I think speed is key**
+- ⚡Fun fact **I think speed is key**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
